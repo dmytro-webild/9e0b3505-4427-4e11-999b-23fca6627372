@@ -162,7 +162,6 @@ export default function LandingPage() {
         {
           text: "Join Our Team",          href: "#"},
       ]}
-      description="Flipkart is India's leading e-commerce platform, empowering millions of customers with a vast selection of products, unbeatable prices, and convenient delivery services. Our mission is to make online shopping accessible and enjoyable for everyone."
     />
   </div>
 
